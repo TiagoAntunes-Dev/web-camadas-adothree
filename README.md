@@ -94,8 +94,10 @@ O banco utilizado é o MongoDB Atlas. A API se conecta ao banco usando uma vari�
 > Inserir captura do cluster e das collections.
 
 ### Print da API no Render
-
-> Inserir captura do dashboard do Render mostrando a aplicação publicada.
+<br><br>
+<p align="center>
+<img width="733" height="311" alt="Screenshot 2026-06-02 180404" src="https://github.com/user-attachments/assets/652c6d80-834d-46b7-a7e8-eb7e6ea8c5aa" />
+</p>
 
 ---
 
