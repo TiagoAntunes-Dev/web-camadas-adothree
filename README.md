@@ -95,8 +95,8 @@ O banco utilizado √© o MongoDB Atlas. A API se conecta ao banco usando uma vari√
 
 ### Print da API no Render
 <br><br>
-<p align="center>
-<img width="733" height="311" alt="Screenshot 2026-06-02 180404" src="https://github.com/user-attachments/assets/652c6d80-834d-46b7-a7e8-eb7e6ea8c5aa" />
+<p align="center">
+  <img width="733" height="311" alt="Screenshot 2026-06-02 180404" src="https://github.com/user-attachments/assets/1e08f075-33ad-456f-a600-e714c9367371" />
 </p>
 
 ---
