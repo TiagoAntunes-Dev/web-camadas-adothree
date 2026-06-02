@@ -15,10 +15,7 @@ Este README documenta minha aplicação web em produção. A stack é formada po
 ---
 
 ## 1. Diagrama da Stack em Produção
-
-<p align="center">
-<img width="1295" height="1310" alt="crud_db_02_06_2026" src="https://github.com/user-attachments/assets/a9c7ae66-ee2d-4261-81ba-cec480ff96f5" />
-</p>
+<
 
 No meu projeto, o usuário acessa o front-end Angular pelo navegador. O Angular faz requisições HTTP para a API hospedada no Render usando JSON. A API recebe essas requisições, valida os dados, executa as regras de negócio e consulta o MongoDB Atlas.
 
@@ -93,7 +90,9 @@ O banco utilizado é o MongoDB Atlas. A API se conecta ao banco usando uma vari�
 
 ### Print do MongoDB Atlas
 
-> Inserir captura do cluster e das collections.
+<p align="center">
+<img width="1295" height="1310" alt="crud_db_02_06_2026" src="https://github.com/user-attachments/assets/a9c7ae66-ee2d-4261-81ba-cec480ff96f5" />
+</p>
 
 ### Print da API no Render
 
