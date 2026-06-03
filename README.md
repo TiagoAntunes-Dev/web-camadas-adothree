@@ -30,6 +30,10 @@ O GitHub entra como repositório central do código. O front-end e o back-end fi
 
 ## 2. Front-end Consumindo a API em Produção
 
+<p align="center">
+  <img width="960" height="287" alt="Screenshot 2026-06-03 103452" src="https://github.com/user-attachments/assets/58389d13-095c-43ac-956f-53bc2e504739" />
+</p>
+
 O front-end foi desenvolvido com Angular e Angular Material. Ele está hospedado no GitHub Pages.
 
 A URL pública da API está configurada no arquivo:
