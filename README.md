@@ -6,7 +6,6 @@ Este README documenta minha aplicação web em produção. A stack é formada po
 
 ### Links do Projeto
 
-- **Front-end:** https://TiagoAntunes-Dev.github.io/crud-products-frontend/
 - **API:** https://crud-api-products.onrender.com/
 - **Repositório Front-end:** https://github.com/TiagoAntunes-Dev/crud-products-frontend
 - **Repositório Back-end:** https://github.com/TiagoAntunes-Dev/crud-api-products
