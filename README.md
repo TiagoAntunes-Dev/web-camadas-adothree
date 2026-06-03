@@ -48,14 +48,6 @@ export const environment = {
 
 Isso faz com que o front-end não use `localhost`, mas sim a API publicada no Render.
 
-### Print do Front-end em Produção
-
-> Inserir imagem do front-end funcionando em produção.
-
-### Print do Network no DevTools
-
-> Inserir captura da aba Network mostrando as requisições para a API.
-
 No DevTools, aparece a requisição para a API pública. A resposta vem em JSON e retorna status de sucesso, mostrando que o front-end e o back-end estão se comunicando corretamente em produção.
 
 ---
