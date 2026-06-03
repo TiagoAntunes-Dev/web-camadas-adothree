@@ -15,7 +15,11 @@ Este README documenta minha aplicação web em produção. A stack é formada po
 ---
 
 ## 1. Diagrama da Stack em Produção
-<
+
+<p align="center">
+  <img width="1600" height="1000" alt="Image (melhor)" src="https://github.com/user-attachments/assets/45daa07e-0798-41c3-8f31-6a22dad301eb" />
+</p>
+
 
 No meu projeto, o usuário acessa o front-end Angular pelo navegador. O Angular faz requisições HTTP para a API hospedada no Render usando JSON. A API recebe essas requisições, valida os dados, executa as regras de negócio e consulta o MongoDB Atlas.
 
