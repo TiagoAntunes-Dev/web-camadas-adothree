@@ -16,7 +16,7 @@ Este README documenta minha aplicação web em produção. A stack é formada po
 ## 1. Diagrama da Stack em Produção
 
 <p align="center">
-  <img width="2612" height="1632" alt="Gemini_Generated_Image_z6yqc0z6yqc0z6yq" src="https://github.com/user-attachments/assets/c6b93d1d-1eea-4dcd-8962-8264932c9999" />
+  <img width="2612" height="1632" alt="Gemini_Generated_Image_atkc3katkc3katkc" src="https://github.com/user-attachments/assets/65b95118-7dda-42ae-a9ef-c195c3725a19" />
 </p>
 
 
